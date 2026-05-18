@@ -1,4 +1,4 @@
-# 💻 Codivio
+# 💻 Codiguin
 
 🚀 **Codivio** é um editor de código online feito em **HTML** que permite testar projetos web diretamente no navegador.
 
