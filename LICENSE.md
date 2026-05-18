@@ -1,4 +1,4 @@
-# Licença Codivio
+# Licença Codiguin
 
 Copyright (c) 2026 Lucca
 
@@ -38,7 +38,7 @@ pelo uso deste software.
 
 ---
 
-**Projeto:** Codivio
+**Projeto:** Codiguin
 **Autor:** Lucca 
 **Ano:** 2026
 
